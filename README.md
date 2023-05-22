@@ -1,3 +1,5 @@
+<img align='left' src='github-metrics.svg'>
+
 # Stats
 ![Stats](https://github-readme-stats.vercel.app/api?username=BlusteryS&custom_title=My+stats&hide_border=true&count_private=true&theme=react&show_icons=true&include_all_commits=true&locale=en)
 
