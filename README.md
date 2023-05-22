@@ -1,4 +1,7 @@
 # 👋 My Stats
+
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=BlusteryS&data=followers,repositories,stars,commits&theme=darkmode)](https://github.com/Jurredr/github-widgetbox)
+
 <img align='left' src='github-metrics.svg'>
 
 # Info
@@ -7,8 +10,5 @@
 - ⭐ Developing my own server ([SoulMine](https://vk.com/soulmine_pe))
 - 📫 You can write me in [Telegram](https://t.me/blusterysasha)
 
-# Popular projects
-[![LimitGM](https://github-readme-stats.vercel.app/api/pin/?username=BlusteryS&repo=LimitGM&theme=react)](https://github.com/BlusteryS/LimitGM)
-[![NewBanItem](https://github-readme-stats.vercel.app/api/pin/?username=BlusteryS&repo=NewBanItem&theme=react)](https://github.com/BlusteryS/NewBanItem)
-[![NewPVP](https://github-readme-stats.vercel.app/api/pin/?username=BlusteryS&repo=NewPVP&theme=react)](https://github.com/BlusteryS/NewPVP)
-[![TapToDo](https://github-readme-stats.vercel.app/api/pin/?username=BlusteryS&repo=TapToDo&theme=react)](https://github.com/BlusteryS/TapToDo)
+# Languages used
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=BlusteryS&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
