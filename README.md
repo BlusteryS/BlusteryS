@@ -11,4 +11,4 @@
 - 📫 You can write me in [Telegram](https://t.me/blusterysasha)
 
 # Languages used
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=BlusteryS&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=BlusteryS&layout=compact" width=40%>
