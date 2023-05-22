@@ -11,4 +11,4 @@
 - 📫 You can write me in [Telegram](https://t.me/blusterysasha)
 
 # Languages used
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=BlusteryS&layout=compact" width=40%>
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=BlusteryS&layout=compact&theme=react" width=40%>
