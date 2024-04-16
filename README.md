@@ -2,7 +2,7 @@
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=BlusteryS&data=followers,repositories,stars,commits&theme=darkmode)](https://github.com/Jurredr/github-widgetbox)
 
-<img align='left' src='github-metrics.svg'>
+<img align='right' src='github-metrics.svg'>
 
 ### Info
 - 💻 Fullstack developer using React, Next.js (TypeScript) since 2019
