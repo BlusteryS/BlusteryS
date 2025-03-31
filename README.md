@@ -17,4 +17,9 @@
 📬 Reach out via **[Telegram](https://t.me/blusterysasha)** or **[VK](https://vk.me/blusterysasha)**.  
 
 ### **Development Activity**  
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=BlusteryS&layout=compact&theme=react" width="45%" alt="Coding Activity">  
+<details>
+  <summary><i>Click to view coding activity stats</i></summary>
+  <blockquote>
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=BlusteryS&layout=compact&theme=react" width="45%" alt="Coding Activity">
+  </blockquote>
+</details>
