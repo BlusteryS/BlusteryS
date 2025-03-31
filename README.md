@@ -1,15 +1,18 @@
-# 👋 My Stats
+### **Core Competencies**  
+**Frontend Development:** TypeScript, JavaScript, React, Next.js, HTML/CSS (Modules)  
+**Backend & APIs:** Node.js, Spring (Java), RESTful Services  
+**Tools & Practices:** Git, Webpack, Redux Toolkit  
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=BlusteryS&data=followers,repositories,stars,commits&theme=darkmode)](https://github.com/Jurredr/github-widgetbox)
+### **Professional Summary**  
+- 🖥️ **Full-stack developer** with expertise in **React, Next.js (TypeScript), and Spring**, delivering scalable solutions since 2019.  
+- 🚀 **Founder & Lead Developer** of **[Tind](https://vk.com/tindapp)** – a social dating application (VK Mini Apps) with **20K+ monthly active users**.  
+- 🛠️ Built **high-performance web applications**, including custom CMS platforms, analytics dashboards, and e-commerce systems.  
+- 🔌 Contributed to **open-source projects**, specializing in plugin development for *Bukkit*, *Nukkit* and *PocketMine-MP*.  
+- 💡 Engineered **tailored solutions**, including web apps, chatbot integrations (Telegram/VK), and backend services (Node.js/Spring).  
+- 📢 Founded the **[NewPlugin](https://vk.com/newplugin)** developer community (10K+ members) on VK.  
 
-<img align='right' src='github-metrics.svg'>
+### **Contact Information**  
+📬 Reach out via **[Telegram](https://t.me/blusterysasha)** or **[VK](https://vk.me/blusterysasha)**.  
 
-### Info
-- 💻 Fullstack developer using React, Next.js (TypeScript) since 2019
-- 🌱 [Nukkit](https://github.com/CloudBurstMC/Nukkit) and [PMMP](https://github.com/pmmp/PocketMine-MP) plugin developer
-- 🍺 I can write you a plugin, website or Telegram/VK bot of any complexity
-- ⭐ Owner of the VK group [NewPlugin](https://vk.com/newplugin)
-- 📫 You can write me in [Telegram](https://t.me/blusterysasha) or in [VK](https://vk.me/blusterysasha)
-
-### Languages used
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=BlusteryS&layout=compact&theme=react" width=40%>
+### **Development Activity**  
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=BlusteryS&layout=compact&theme=react" width="45%" alt="Coding Activity">  
