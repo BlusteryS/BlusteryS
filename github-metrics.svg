@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1146" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1030" class="">
     <defs>
         <style/>
     </defs>
@@ -1286,6 +1286,34 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                                        Pushed 3 commits in
+                                        <span class="repo">SoulMC-LTD/CombatCore</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#676123b</div>
+                                        <div class="message">Merge remote-tracking branch 'origin/master'</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#21211d2</div>
+                                        <div class="message">fix cases?</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#318ff68</div>
+                                        <div class="message">fix ignore</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                                         Pushed 1 commit in
                                         <span class="repo">BlusteryS/Stiller</span>
                                     </div>
@@ -1359,62 +1387,6 @@
                                     <div class="commit">
                                         <div class="sha">#0d94373</div>
                                         <div class="message">fix compile</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 10 commits in
-                                        <span class="repo">SoulMC-LTD/CombatCore</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#2a99363</div>
-                                        <div class="message">battle pass fix</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0169da6</div>
-                                        <div class="message">ban villager in spawner</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0b99d13</div>
-                                        <div class="message">ec &lt;player&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d7d9ae2</div>
-                                        <div class="message">Firework command</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#42ef2d8</div>
-                                        <div class="message">16) Уменьшить радиус у зелья "проклятие медузы"</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5367398</div>
-                                        <div class="message">15) Сферы дюпаются, еслив игрока скинуть много сфер</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b98d80b</div>
-                                        <div class="message">12) Донат-элитры "boeing 737" - должны быть неразрушимыми</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b3ac1be</div>
-                                        <div class="message">12) Донат-элитры "boeing 737" - должны быть неразрушимыми</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#344570e</div>
-                                        <div class="message">11) На донат-трезубце zeus не работает зачарование тягун</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#71142aa</div>
-                                        <div class="message">5) Из скупщика в меню просмтора скупаемых вещей - можно забрать все вещи</div>
                                     </div>
                                 </div>
                             </section>
