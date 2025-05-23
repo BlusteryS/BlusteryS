@@ -1260,14 +1260,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">BlusteryS/Stiller</span>
+                                        <span class="repo">SoulMC-LTD/CombatCore</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#16b1320</div>
-                                        <div class="message">updates</div>
+                                        <div class="sha">#ff1208c</div>
+                                        <div class="message">fix npc</div>
                                     </div>
                                 </div>
                             </section>
@@ -1286,8 +1286,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#c8d351c</div>
-                                        <div class="message">command npc</div>
+                                        <div class="sha">#ff1208c</div>
+                                        <div class="message">fix npc</div>
                                     </div>
                                 </div>
                             </section>
@@ -1306,8 +1306,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#716bf68</div>
-                                        <div class="message">fix scoreboard</div>
+                                        <div class="sha">#ff1208c</div>
+                                        <div class="message">fix npc</div>
                                     </div>
                                 </div>
                             </section>
@@ -1326,8 +1326,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#7a289b5</div>
-                                        <div class="message">fix scoreboard</div>
+                                        <div class="sha">#ff1208c</div>
+                                        <div class="message">fix npc</div>
                                     </div>
                                 </div>
                             </section>
@@ -1346,8 +1346,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#37a001b</div>
-                                        <div class="message">fixes</div>
+                                        <div class="sha">#ff1208c</div>
+                                        <div class="message">fix npc</div>
                                     </div>
                                 </div>
                             </section>
