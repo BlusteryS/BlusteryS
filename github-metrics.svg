@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1060" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1093" class="">
     <defs>
         <style/>
     </defs>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            3778 Commits
+                            3779 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -1280,35 +1280,31 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">SoulMC-LTD/NFCBackend</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#128bd03</div>
-                                        <div class="message">api/auth</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
+                                        Pushed 5 commits in
                                         <span class="repo">SoulMC-LTD/NFC</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#ad2cccb</div>
-                                        <div class="message">sync</div>
+                                        <div class="sha">#eab98ec</div>
+                                        <div class="message">refactor</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f7a56da</div>
+                                        <div class="message">fix</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#58f0172</div>
+                                        <div class="message">card creation in select</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6d0fcbf</div>
+                                        <div class="message">image uploading</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ba61f6b</div>
+                                        <div class="message">user auth</div>
                                     </div>
                                 </div>
                             </section>
@@ -1320,35 +1316,15 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 6 commits in
+                                        Pushed 1 commit in
                                         <span class="repo">SoulMC-LTD/NFCBackend</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#33d565b</div>
-                                        <div class="message">change methods</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e6d5928</div>
-                                        <div class="message">change methods</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#811bbbb</div>
-                                        <div class="message">fixes in cardhandler</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a683faf</div>
-                                        <div class="message">fix checkAuth</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2705661</div>
-                                        <div class="message">fixes</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3154cf5</div>
-                                        <div class="message">change methods</div>
+                                        <div class="sha">#ccb560d</div>
+                                        <div class="message">community param</div>
                                     </div>
                                 </div>
                             </section>
@@ -1367,12 +1343,44 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#564a01d</div>
-                                        <div class="message">fix card</div>
+                                        <div class="sha">#f0b2df2</div>
+                                        <div class="message">create card improvements</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#71277f3</div>
-                                        <div class="message">add user router + fix user</div>
+                                        <div class="sha">#444c5eb</div>
+                                        <div class="message">fixes</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 4 commits in
+                                        <span class="repo">SoulMC-LTD/NFCBackend</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#e5482dd</div>
+                                        <div class="message">get images in card</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b3c2a39</div>
+                                        <div class="message">image delete</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9e2abee</div>
+                                        <div class="message">add community</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ea892be</div>
+                                        <div class="message">check for admin</div>
                                     </div>
                                 </div>
                             </section>
@@ -1391,8 +1399,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#65c73f7</div>
-                                        <div class="message">use checkAuth</div>
+                                        <div class="sha">#128bd03</div>
+                                        <div class="message">api/auth</div>
                                     </div>
                                 </div>
                             </section>
